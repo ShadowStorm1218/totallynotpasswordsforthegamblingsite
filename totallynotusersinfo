@@ -1,3 +1,2 @@
-john,pass123,136.37.217.111
-jane,pass456,136.37.217.112
-mike,pass789
+john:password123:136.37.217.112
+jane:password456:192.168.1.101
