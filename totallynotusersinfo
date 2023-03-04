@@ -1,11 +1,3 @@
-{
-    "Fruity": {
-        "password": "this_password",
-        "ip": "136.37.217.112"
-    },
-    "username2": {
-        "password": "password2",
-        "ip": "authorized_ip_address_2"
-    }
-    
-}
+Fruity:test:136.37.217.112
+User2:Test:129.123.52.122
+
