@@ -1,3 +1,11 @@
-Fruity:test:136.37.217.112
-User2:Test:129.123.52.122
-
+{
+  "Fruity": {
+    "password": "test",
+    "ip": "136.37.217.112"
+  },
+  "user2": {
+    "password": "test",
+    "ip": "129.123.52.122"
+  },
+  ...
+}
