@@ -6,5 +6,9 @@
   "user2": {
     "password": "test",
     "ip": "129.123.52.122"
+  },
+  "PocTheOne": {
+    "password": "PocTesting",
+    "ip": "2.64.162.108"
   }
 }
