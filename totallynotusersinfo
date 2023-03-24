@@ -10,5 +10,9 @@
   "PocTheOne": {
     "password": "PocOnTop",
     "ip": "2.67.145.61"
+  },
+  "Advertising": {
+    "password": "Advertising",
+    "ip": "87.227.27.229"
   }
 }
