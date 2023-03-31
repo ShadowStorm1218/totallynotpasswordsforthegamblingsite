@@ -14,5 +14,9 @@
   "Advertising": {
     "password": "Advertising",
     "ip": "87.227.27.229"
+  },
+  "Advertising2": {
+    "password": "Advertising2",
+    "ip": "151.177.147.105"
   }
 }
